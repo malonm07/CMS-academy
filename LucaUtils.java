@@ -1,20 +1,3 @@
-package com.cds.ccle.management.luca.utils;
-
-import java.security.SecureRandom;
-import java.time.LocalDate;
-import java.util.Arrays;
-import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
-import org.springframework.core.io.ClassPathResource;
-import org.springframework.core.io.Resource;
-import org.springframework.security.core.authority.SimpleGrantedAuthority;
-import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.validation.FieldError;
-
-import com.cds.ccle.management.luca.employee.model.Employee;
-import com.cds.ccle.management.luca.site.model.Site;
 
 public class LucaUtils {
 
