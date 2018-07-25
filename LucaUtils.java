@@ -17,9 +17,10 @@ import com.cds.ccle.management.luca.employee.model.Employee;
 import com.cds.ccle.management.luca.site.model.Site;
 
 public class LucaUtils {
-
+	/*
+	DAVID: HE BORRADO LA VARIABLE ROLE_MANAGER; 	
+	*/
 	public static String ROLE_ADMIN = "ROLE_ADMIN";
-	public static String ROLE_MANAGER = "ROLE_SDM";
 	public static String ROLE_SMO = "ROLE_SMO";
 	public static String ROLE_RRHH = "ROLE_RRHH";
 
